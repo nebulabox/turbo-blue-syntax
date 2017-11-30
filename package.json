@@ -1,0 +1,15 @@
+{
+  "name": "turbo-blue-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "Classical turbo blue theme for Atom",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/nebulabox/turbo-blue-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
